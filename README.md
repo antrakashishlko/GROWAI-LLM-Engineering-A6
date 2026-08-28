@@ -74,7 +74,7 @@ The program loads and chunks the document, creates embeddings, builds the BM25 i
 
 The complete workflow is:
 
-## Document → Chunking → Embeddings → ChromaDB + BM25 → Hybrid Search → RRF → Top 10 → Cross-Encoder → Top 3 → LLM → Answer
+### Document → Chunking → Embeddings → ChromaDB + BM25 → Hybrid Search → RRF → Top 10 → Cross-Encoder → Top 3 → LLM → Answer
 
 ## Testing
 
