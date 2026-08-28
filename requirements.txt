@@ -1,0 +1,9 @@
+langchain
+langchain-ollama
+langchain-core
+langchain-text-splitters
+sentence-transformers
+chromadb
+rank-bm25
+torch
+numpy
